@@ -1,1 +1,0 @@
-# Project-of-Computer-Vision-
